@@ -2,7 +2,7 @@
 	"name": "react_manual_config",
 	"version": "1.0.0",
 	"main": "index.js",
-	"license": "MIT",
+	"license": "None",
 	"scripts": {
 		"start": "webpack-dev-server --mode development --open --hot --https",
 		"build": "webpack --mode production",
