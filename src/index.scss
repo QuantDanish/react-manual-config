@@ -1,0 +1,12 @@
+#root {
+	padding: 0 1rem;
+}
+
+@keyframes spin {
+	from {
+		-moz-transform: rotate(0deg);
+	}
+	to {
+		-moz-transform: rotate(360deg);
+	}
+}

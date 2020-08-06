@@ -1,0 +1,12 @@
+.App {
+	color: #cecece;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 10rem;
+	padding: 1rem;
+	img {
+		width: 25%;
+		height: 25%;
+		animation: spin 3000ms linear 0ms infinite;
+	}
+}
